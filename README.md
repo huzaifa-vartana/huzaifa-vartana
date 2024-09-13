@@ -2,7 +2,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/huzaifamalik47)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=huzaifamalik47)
 
 <!--
 **huzaifa-vartana/huzaifa-vartana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
